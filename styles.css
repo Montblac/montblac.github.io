@@ -1,0 +1,13 @@
+* {
+  font-size: 50px;
+  color: red;
+  text-align: center;
+}
+
+button {
+  color: black;
+}
+
+#Header:hover {
+  display: none;
+}
